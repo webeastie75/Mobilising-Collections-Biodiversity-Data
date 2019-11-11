@@ -29,3 +29,4 @@
 27. Starting at the beginning: in a multidisciplinary large collection how do we prioritise what do first ( maybe that is an internal strategic question but what factors should inform the decision)?
 28. What exactly do we need to do, who needs to be involved and how do we fund it?
 29. Is GBIF the main player in town?
+30. It is good practice to capture all data from new acquisitions and most efficient to digitise collections systematically. If a new aquistion is to be incorporated in the main collection series after it's data is captured...how is this best approached?
